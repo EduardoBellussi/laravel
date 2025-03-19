@@ -1,0 +1,30 @@
+body {
+    background-color: #F2E7DC;
+    color: #012326;
+  }
+  .navbar {
+    background-color: #012326;
+  }
+  .navbar-brand, .nav-link {
+    color: #F2E7DC !important;
+  }
+  .btn-primary {
+    background-color: #F27B35;
+    border-color: #F27B35;
+  }
+  .btn-primary:hover {
+    background-color: #F2A0A0;
+    border-color: #F2A0A0;
+  }
+  .jumbotron {
+    background-color: #56BFA1;
+    padding: 2rem 1rem;
+    margin-bottom: 2rem;
+    border-radius: 0.3rem;
+  }
+  .footer {
+    background-color: #012326;
+    color: #F2E7DC;
+    padding: 1rem 0;
+    margin-top: 2rem;
+  }
