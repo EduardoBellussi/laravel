@@ -27,4 +27,90 @@ body {
     color: #F2E7DC;
     padding: 1rem 0;
     margin-top: 2rem;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
   }
+   /* Registro */
+      .register-container {
+        max-width: 400px;
+        margin: 100px auto;
+        padding: 20px;
+        background-color: #FFFFFF;
+        border-radius: 8px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      }
+      .register-container h2 {
+        color: #012326;
+        margin-bottom: 20px;
+      }
+      .form-control:focus {
+        border-color: #56BFA1;
+        box-shadow: 0 0 5px rgba(86, 191, 161, 0.5);
+      }
+      /* Login */
+      
+      .login-container {
+        max-width: 400px;
+        margin: 100px auto;
+        padding: 20px;
+        background-color: #FFFFFF;
+        border-radius: 8px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      }
+      .login-container h2 {
+        color: #012326;
+        margin-bottom: 20px;
+      }
+      .form-control:focus {
+        border-color: #56BFA1;
+        box-shadow: 0 0 5px rgba(86, 191, 161, 0.5);
+      }
+      /* adocao */
+      .about-section {
+        background-color: #FFFFFF;
+        border-radius: 8px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        padding: 20px;
+        margin-top: 20px;
+      }
+      .animal-card {
+        background-color: #FFFFFF;
+        border-radius: 8px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        margin-bottom: 20px;
+        padding: 15px;
+      }
+      .animal-card img {
+        border-radius: 8px;
+        width: 100%;
+        height: auto;
+      }
+      /* Detalhes */
+      .animal-details {
+        background-color: #FFFFFF;
+        border-radius: 8px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        padding: 20px;
+        margin-top: 20px;
+      }
+      .animal-details img {
+        border-radius: 8px;
+        width: 100%;
+        height: auto;
+        margin-bottom: 20px;
+      }
+      /* listar */
+      .animal-card {
+        background-color: #FFFFFF;
+        border-radius: 8px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        margin-bottom: 20px;
+        padding: 15px;
+      }
+      .animal-card img {
+        border-radius: 8px;
+        width: 100%;
+        height: auto;
+      }
